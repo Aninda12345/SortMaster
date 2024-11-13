@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SortMaster/static/css/main.3aa6f57e.css",
+    "main.js": "/SortMaster/static/js/main.c62c1e22.js",
+    "static/js/453.ba8e5f10.chunk.js": "/SortMaster/static/js/453.ba8e5f10.chunk.js",
+    "index.html": "/SortMaster/index.html",
+    "main.3aa6f57e.css.map": "/SortMaster/static/css/main.3aa6f57e.css.map",
+    "main.c62c1e22.js.map": "/SortMaster/static/js/main.c62c1e22.js.map",
+    "453.ba8e5f10.chunk.js.map": "/SortMaster/static/js/453.ba8e5f10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3aa6f57e.css",
+    "static/js/main.c62c1e22.js"
+  ]
+}
